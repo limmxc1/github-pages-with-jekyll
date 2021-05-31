@@ -13,3 +13,8 @@ github_username:  limmxc1 # DO NOT include the @ character, or else the build wi
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "Cryptocurrency"
+date: 2021-05-31
+---
